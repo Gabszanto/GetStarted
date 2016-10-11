@@ -1,6 +1,5 @@
 ![Screenshot](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/332/858/datas/gallery.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/Gabszanto/GetStarted/master/slugbay-resources.png)
 ![Screenshot](https://raw.githubusercontent.com/Gabszanto/GetStarted/master/slugbay-resources.svg)
 
 Why [SlugBay](https://www.slugbay.com) ?
